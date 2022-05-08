@@ -15,7 +15,7 @@ git push -u origin main
 ***…或从命令行推送现有的存储库\***
 
 ```
-git remote add origin https://github.com/menneren/python.git
+git remote add origin https://github.com/menneren/python.gits
 git branch -M main
 git push -u origin main
 ```
