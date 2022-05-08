@@ -1,6 +1,7 @@
 import webbrowser
 webbrowser.open('https://www.jianshu.com')
 
+'''
 import time
 import pyautogui
 
@@ -22,7 +23,7 @@ whele:
 
 pyautogui.click()
 
-
+'''
 
 
 
