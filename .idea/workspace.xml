@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6df6375-af90-4438-8b5e-3c4d03566860" name="Changes" comment="2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python1/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python1/text1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python1/text网站/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python2/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little three/python1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little three/储存/data.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little turtle" beforeDir="false" afterPath="$PROJECT_DIR$/pythonThe little turtle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little turtle/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/liujiyang91" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/liujiyang91.pub" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/abstest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/defined_function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/dictset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/location_func.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/new_rait.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/sqrt_function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/the_dict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/the_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject/liaopython/variable_element_func.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject1/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject2/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject3/.idea/pythonProject3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject3/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject4/.idea/pythonProject4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/pythonProject4/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/函数式编程/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonThe little two/高级特性/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/使用安装问题/git文件上传.md" beforeDir="false" afterPath="$PROJECT_DIR$/使用安装问题/git文件上传.md" afterDir="false" />
-    </list>
+    <list default="true" id="d6df6375-af90-4438-8b5e-3c4d03566860" name="Changes" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652010543421</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2">
+      <created>1652015358416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652015358416</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
