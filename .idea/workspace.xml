@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d6df6375-af90-4438-8b5e-3c4d03566860" name="Changes" comment="2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python1/text1/newjianshu.py" beforeDir="false" afterPath="$PROJECT_DIR$/python1/text1/newjianshu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pythonThe little two" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/python1/text1/clickrun.py" root0="FORCE_HIGHLIGHTING" />
@@ -215,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652019318532</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2">
+      <created>1652021212167</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652021212167</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
