@@ -7,7 +7,7 @@ import pyautogui
 
 def click_operation():
     """点击操作"""
-    for i in range(3):
+    for i in range(1):
 
         #鼠标需要移动到的位置
         x, y = 1396, 850
