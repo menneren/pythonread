@@ -1,5 +1,5 @@
 import time
-import newjianshu
+import pyautogui
 #pyautogui库安装问题
 import pyautogui
 
